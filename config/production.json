@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "slava is awesome",
+  "mongoUri": "mongodb+srv://steel:steel100500@cluster0-qae0n.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
